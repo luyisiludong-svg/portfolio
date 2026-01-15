@@ -49,7 +49,7 @@ The goal is to bridge theory and practice through software engineering.
 
 ## 📁 Project Structure
 
-```
+````
 
 src/
 ├─ app/            # Next.js routes (pages)
@@ -68,7 +68,7 @@ Algorithms are intentionally decoupled from the UI to allow reuse, testing, and 
 ```bash
 npm install
 npm run dev
-````
+```
 
 Then open `http://localhost:3000` in your browser.
 
